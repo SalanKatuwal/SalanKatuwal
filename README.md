@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/doesnot89406069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doesnot89406069" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salan katuwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salan katuwal" height="30" width="40" /></a>
-<a href="https://kaggle.com/salanl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salanl" height="30" width="40" /></a>
-<a href="https://fb.com/salan katwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salan katwal" height="30" width="40" /></a>
+<a href="https://x.com/Doesnot89406069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doesnot89406069" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salan-katuwal-53b452342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salan katuwal" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/salanl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salanl" height="30" width="40" /></a>
+<a href="https://www.facebook.com/salan.katwal.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salan katwal" height="30" width="40" /></a>
 <a href="https://instagram.com/katwal.salan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katwal.salan" height="30" width="40" /></a>
 </p>
 
