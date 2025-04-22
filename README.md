@@ -5,11 +5,11 @@
 
 - 🔭 I have done work on [email/sms classifier](https://salankatuwal-email-fraud-detection.streamlit.app/)
 
-- 🌱 I’m currently learning **Unspuervised learning and dotnet**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://www.salankatuwal.com.np/](https://www.salankatuwal.com.np/)
 
-- 💬 Ask me about **pandas,nump,scikit-learn**
+- 💬 Ask me about **Django, pandas, numpy, scikit-learn**
 
 - 📫 How to reach me **salanb61@gmail.com**
 
